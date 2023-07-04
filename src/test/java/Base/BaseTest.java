@@ -38,7 +38,7 @@ public class BaseTest
             logger.info("Launched Chrome Browser");
             options.addArguments("--window-size=1920,1080");
             options.addArguments("--start-maximized");
-            //options.addArguments("--headless");
+            options.addArguments("--headless");
             options.addArguments("--disable-gpu");
             options.addArguments("--no-sandbox");
             options.addArguments("--disable-dev-shm-usage");
