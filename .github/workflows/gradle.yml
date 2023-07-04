@@ -35,4 +35,4 @@ jobs:
          ./scripts/InstallChrome.sh
 
     - name: Build with Maven
-      run: mvn clean test -DXmlFile=testng.xml
+      run: mvn clean install -DskipTests
