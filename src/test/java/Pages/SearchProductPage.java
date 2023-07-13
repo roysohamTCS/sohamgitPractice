@@ -1,13 +1,15 @@
 package Pages;
 
 import Utilities.ExplicitWaits;
-import Utilities.LoadTestData;
-import org.apache.poi.ss.formula.functions.T;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import org.testng.annotations.DataProvider;
+
+import static Base.BaseTest.logger;
+import static Utilities.PassScreenShot.CaptureAndAttachElementScreenShotToReport;
+import static Utilities.PassScreenShot.CaptureAndAttachWholePageScreenShotToReport;
+import static Utilities.ReportLogger.logMessageToReport;
 
 public class SearchProductPage
 {
@@ -19,21 +21,22 @@ public class SearchProductPage
         PageFactory.initElements(ldriver,this);
     }
     @FindBy(css = ".searchicondeskhead.searchdeskview") WebElement SearchIcon;
-    @FindBy(css = ".form-control.search-field.searchinputfielddesk") WebElement SearchInputField;
+    @FindBy(css = ".col-8.suggestionscontainer > section .form-control.search-field.searchinputfielddesk") WebElement SearchInputField;
 
+    @FindBy(css = ".col-8.suggestionscontainer") WebElement SuggestionElement;
 
-
-    public void instantSearch(String ProductName) throws InterruptedException
+    public void instantSearch(String ProductName) throws Exception
     {
-        Thread.sleep(10000);
+        logger.info("Started logging for test");
         System.out.println(ldriver.getTitle());
         System.out.println(ldriver.getCurrentUrl());
-        Thread.sleep(10000);
         explicitWaits.EleToBeClickable(ldriver,SearchIcon,15);
-        Thread.sleep(10000);
         explicitWaits.EleToBeClickable(ldriver,SearchInputField,15);
-        Thread.sleep(10000);
         SearchInputField.sendKeys(ProductName);
-        Thread.sleep(30000);
+        logMessageToReport("Searching for "+ProductName);
+        CaptureAndAttachWholePageScreenShotToReport(ProductName,ldriver);
+        logger.info("ended logging for test");
+
+
     }
 }
