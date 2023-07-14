@@ -35,7 +35,7 @@ jobs:
         id: start-selenoid
         continue-on-error: false
         with:
-          version: 4.8.3
+          version: 1.10.1
           browsers: chrome
           last-versions: 1
 
