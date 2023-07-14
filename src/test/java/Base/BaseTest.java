@@ -80,7 +80,7 @@ public class BaseTest
     {
         capabilities = ((RemoteWebDriver) driver).getCapabilities();
         logger.info("Browser Capabilities : "+capabilities.getBrowserName() + capabilities.getBrowserVersion());
-        report.setSystemInfo("Browser Name",capabilities.getBrowserName());
+        report.setSystemInfo("Browser Execution",capabilities.getBrowserName());
         report.setSystemInfo("Browser Version",capabilities.getBrowserVersion());
         report.setSystemInfo("Test Environment URL",p.getProperty("URL"));
     }
