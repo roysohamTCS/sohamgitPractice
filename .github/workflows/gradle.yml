@@ -27,8 +27,9 @@ jobs:
 
       - name: Install Google Chrome # Using shell script to install Google Chrome
         run: |
-          chmod +x ./scripts/InstallChrome.sh
+          chmod +x /scripts/InstallChrome.sh
            ./scripts/InstallChrome.sh
+          
 
       - name: Start Selenoid server
         uses: n-ton4/selenoid-github-action@master
