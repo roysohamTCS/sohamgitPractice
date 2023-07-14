@@ -34,6 +34,10 @@ jobs:
         uses: n-ton4/selenoid-github-action@master
         id: start-selenoid
         continue-on-error: false
+        with:
+          version: 4.8.3
+          browser: chrome
+          latest-version: 1
 
       - name: checkout
         uses: actions/checkout@v2
