@@ -36,8 +36,8 @@ jobs:
         continue-on-error: false
         with:
           version: 4.8.3
-          browser: chrome
-          latest-version: 1
+          browsers: chrome
+          last-versions: 1
 
       - name: checkout
         uses: actions/checkout@v2
