@@ -21,7 +21,7 @@ public class SearchProductPage
         PageFactory.initElements(ldriver,this);
     }
     @FindBy(css = ".searchicondeskhead.searchdeskview") WebElement SearchIcon;
-    @FindBy(css = ".col-8.suggestionscontainer > section .form-control.search-field.searchinputfielddesk") WebElement SearchInputField;
+    @FindBy(css = ".row.searchcontainer.searchdeskview form > div > input[id='searchvalue']") WebElement SearchInputField;
 
     @FindBy(css = ".col-8.suggestionscontainer") WebElement SuggestionElement;
 
@@ -33,6 +33,7 @@ public class SearchProductPage
         explicitWaits.EleToBeClickable(ldriver,SearchIcon,15);
         explicitWaits.EleToBeClickable(ldriver,SearchInputField,15);
         SearchInputField.sendKeys(ProductName);
+        logger.info("Product name is: "+ProductName);
         logMessageToReport("Searching for "+ProductName);
         CaptureAndAttachWholePageScreenShotToReport(ProductName,ldriver);
         logger.info("ended logging for test");

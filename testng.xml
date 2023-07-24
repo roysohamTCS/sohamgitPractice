@@ -7,7 +7,6 @@
     </listeners>
 
     <test verbose="2" preserve-order="true" name="C:/Users/2593707/IdeaProjects/IRTH-E2E-Automation">
-
         <classes>
             <class name="TestCases.SearchProductPageTest"/>
         </classes>
