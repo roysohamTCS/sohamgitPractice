@@ -8,9 +8,7 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
     - name: Set up JDK 11
@@ -19,4 +17,4 @@ jobs:
         java-version: '11'
 
     - name: Build with Maven
-      run: mvn clean verify -Dtestng.dtd.http=true
+      run: mvn clean verify -Dtestng.dtd.https=true

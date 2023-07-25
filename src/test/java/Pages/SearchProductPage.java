@@ -23,7 +23,6 @@ public class SearchProductPage
     @FindBy(css = ".searchicondeskhead.searchdeskview") WebElement SearchIcon;
     @FindBy(css = ".row.searchcontainer.searchdeskview form > div > input[id='searchvalue']") WebElement SearchInputField;
 
-    @FindBy(css = ".col-8.suggestionscontainer") WebElement SuggestionElement;
 
     public void instantSearch(String ProductName) throws Exception
     {
@@ -37,7 +36,5 @@ public class SearchProductPage
         logMessageToReport("Searching for "+ProductName);
         CaptureAndAttachWholePageScreenShotToReport(ProductName,ldriver);
         logger.info("ended logging for test");
-
-
     }
 }

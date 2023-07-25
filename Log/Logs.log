@@ -1,14 +1,31 @@
-07/18/2023 04:03:13 PM|INFO |IRTH-E2E-Automation-Logs      | Launching Chrome browser
-07/18/2023 04:03:21 PM|INFO |IRTH-E2E-Automation-Logs      | URL Launched https://bkmh-006.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Irth-Site
-07/18/2023 04:03:21 PM|INFO |IRTH-E2E-Automation-Logs      | Browser Capabilities : chrome114.0.5735.199
-07/18/2023 04:03:21 PM|INFO |Utils                         | [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
-07/18/2023 04:03:23 PM|INFO |IRTH-E2E-Automation-Logs      | Started logging for test
-07/18/2023 04:03:50 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.internal.ExitCodeListener@3a0896b3: 0 ms
-07/18/2023 04:11:48 PM|INFO |IRTH-E2E-Automation-Logs      | Launching Chrome browser
-07/18/2023 04:11:58 PM|INFO |IRTH-E2E-Automation-Logs      | URL Launched https://bkmh-006.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Irth-Site
-07/18/2023 04:11:58 PM|INFO |IRTH-E2E-Automation-Logs      | Browser Capabilities : chrome114.0.5735.199
-07/18/2023 04:11:58 PM|INFO |Utils                         | [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
-07/18/2023 04:12:00 PM|INFO |IRTH-E2E-Automation-Logs      | Started logging for test
-07/18/2023 04:12:01 PM|INFO |IRTH-E2E-Automation-Logs      | Product name is: IRTH Boss Bag
-07/18/2023 04:12:11 PM|INFO |IRTH-E2E-Automation-Logs      | ended logging for test
-07/18/2023 04:12:12 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.internal.ExitCodeListener@3ace6346: 0 ms
+07/25/2023 02:34:29 PM|INFO |IRTH-E2E-Automation-Logs      | Launching Chrome browser
+07/25/2023 02:34:38 PM|INFO |IRTH-E2E-Automation-Logs      | URL Launched https://bkmh-006.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Irth-Site
+07/25/2023 02:34:38 PM|INFO |IRTH-E2E-Automation-Logs      | Browser Capabilities : chrome114.0.5735.199
+07/25/2023 02:36:35 PM|INFO |IRTH-E2E-Automation-Logs      | Launching Chrome browser
+07/25/2023 02:36:44 PM|INFO |IRTH-E2E-Automation-Logs      | URL Launched https://bkmh-006.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Irth-Site
+07/25/2023 02:36:44 PM|INFO |IRTH-E2E-Automation-Logs      | Started logging for test
+07/25/2023 02:36:45 PM|INFO |IRTH-E2E-Automation-Logs      | Product name is: bags
+07/25/2023 02:46:26 PM|INFO |IRTH-E2E-Automation-Logs      | Launching Chrome browser
+07/25/2023 02:46:36 PM|INFO |IRTH-E2E-Automation-Logs      | URL Launched https://bkmh-006.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Irth-Site
+07/25/2023 02:46:36 PM|INFO |IRTH-E2E-Automation-Logs      | Started logging for test
+07/25/2023 02:46:37 PM|INFO |IRTH-E2E-Automation-Logs      | Product name is: bags
+07/25/2023 02:52:53 PM|INFO |IRTH-E2E-Automation-Logs      | Launching Chrome browser
+07/25/2023 02:53:03 PM|INFO |IRTH-E2E-Automation-Logs      | URL Launched https://bkmh-006.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Irth-Site
+07/25/2023 02:53:03 PM|INFO |IRTH-E2E-Automation-Logs      | Browser Capabilities : chrome114.0.5735.199
+07/25/2023 02:55:41 PM|INFO |IRTH-E2E-Automation-Logs      | Launching Chrome browser
+07/25/2023 02:55:50 PM|INFO |IRTH-E2E-Automation-Logs      | URL Launched https://bkmh-006.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Irth-Site
+07/25/2023 02:55:50 PM|INFO |IRTH-E2E-Automation-Logs      | Browser Capabilities : chrome114.0.5735.199
+07/25/2023 03:02:10 PM|INFO |IRTH-E2E-Automation-Logs      | Launching Chrome browser
+07/25/2023 03:02:20 PM|INFO |IRTH-E2E-Automation-Logs      | URL Launched https://bkmh-006.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Irth-Site
+07/25/2023 03:02:20 PM|INFO |IRTH-E2E-Automation-Logs      | Browser Capabilities : chrome114.0.5735.199
+07/25/2023 03:02:20 PM|INFO |Utils                         | [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+07/25/2023 03:02:20 PM|INFO |IRTH-E2E-Automation-Logs      | Started logging for test
+07/25/2023 03:02:21 PM|INFO |IRTH-E2E-Automation-Logs      | Product name is: bags
+07/25/2023 03:02:31 PM|INFO |IRTH-E2E-Automation-Logs      | ended logging for test
+07/25/2023 03:02:32 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.internal.ExitCodeListener@45658133: 0 ms
+07/25/2023 03:02:32 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@322ba549: 31 ms
+07/25/2023 03:02:32 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.jq.Main@6b6eae52: 62 ms
+07/25/2023 03:02:32 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.FailedReporter@d4df0e: 0 ms
+07/25/2023 03:02:32 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.XMLReporter@7af52ec7: 8 ms
+07/25/2023 03:02:32 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.EmailableReporter2@af7e376: 7 ms
+07/25/2023 03:02:32 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@ed2f2f6: 10 ms
