@@ -71,3 +71,17 @@
 07/25/2023 03:13:50 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.XMLReporter@46046c06: 6 ms
 07/25/2023 03:13:50 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.EmailableReporter2@427a12b6: 13 ms
 07/25/2023 03:13:50 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@17dad32f: 9 ms
+07/25/2023 03:20:22 PM|INFO |IRTH-E2E-Automation-Logs      | Launching Chrome browser
+07/25/2023 03:20:30 PM|INFO |IRTH-E2E-Automation-Logs      | URL Launched https://bkmh-006.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Irth-Site
+07/25/2023 03:20:30 PM|INFO |IRTH-E2E-Automation-Logs      | Browser Capabilities : chrome114.0.5735.199
+07/25/2023 03:20:30 PM|INFO |Utils                         | [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+07/25/2023 03:20:31 PM|INFO |IRTH-E2E-Automation-Logs      | Started logging for test
+07/25/2023 03:20:31 PM|INFO |IRTH-E2E-Automation-Logs      | Product name is: bags
+07/25/2023 03:20:41 PM|INFO |IRTH-E2E-Automation-Logs      | ended logging for test
+07/25/2023 03:20:43 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.internal.ExitCodeListener@2be21396: 0 ms
+07/25/2023 03:20:43 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@f3560d4: 53 ms
+07/25/2023 03:20:43 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.jq.Main@20a967fe: 62 ms
+07/25/2023 03:20:43 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.FailedReporter@405b6d75: 0 ms
+07/25/2023 03:20:43 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.XMLReporter@7c20cdd0: 8 ms
+07/25/2023 03:20:43 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.EmailableReporter2@71cea1b8: 13 ms
+07/25/2023 03:20:43 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@34d713a2: 14 ms
