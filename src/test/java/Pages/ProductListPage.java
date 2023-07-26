@@ -20,4 +20,9 @@ public class ProductListPage {
         CaptureAndAttachWholePageScreenShotToReport("pageTitle",ldriver);
         Assertions.CustomAssertString(actualTitle,"IRTH Bags | Salesforce Commerce Cloud | 6.3.0","Validating the page title");
     }
+    public void verifyTitle2() throws Exception {
+        String actualTitle=ldriver.getTitle();
+        CaptureAndAttachWholePageScreenShotToReport("pageTitleWrong",ldriver);
+        Assertions.CustomAssertString(actualTitle,"Salesforce Commerce Cloud | 6.3.0","Validating the page title negative scenario.");
+    }
 }
