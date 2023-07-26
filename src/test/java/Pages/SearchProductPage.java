@@ -20,8 +20,8 @@ public class SearchProductPage
         ldriver = rdriver;
         PageFactory.initElements(ldriver,this);
     }
-    @FindBy(css = ".searchicondeskhead.searchdeskview.") WebElement SearchIcon;
-    @FindBy(css = ".row.searchcontainer.searchdeskview form > div > input[id='searchvalue']") WebElement SearchInputField;
+    @FindBy(css = ".searchicondeskhead.searchdeskview") WebElement SearchIcon;
+    @FindBy(css = ".row.searchcontainer.searchdeskview form > div > input[id='searchvalue dfghjh']") WebElement SearchInputField;
 
 
     public void instantSearch(String ProductName) throws Exception
