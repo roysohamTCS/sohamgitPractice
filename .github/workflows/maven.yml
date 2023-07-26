@@ -28,3 +28,9 @@ jobs:
       with:
         name: Automation Test Report
         path: src/test/Test Report/Test Execution Report.html
+
+    - name: Test Summery
+      uses: test-summary/action@v2
+      with:
+        paths: "src/test/Test Report/*.html"
+      if: always()
