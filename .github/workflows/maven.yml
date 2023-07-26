@@ -1,4 +1,4 @@
-name: Java CI with Maven
+name: IRTH CICD Pipeline
 
 on:
   push:
@@ -26,5 +26,5 @@ jobs:
       uses: actions/upload-artifact@v3
       if: success() || failure()
       with:
-        name: Test Report
+        name: Automation Test Report
         path: src/test/Test Report/Test Execution Report.html
