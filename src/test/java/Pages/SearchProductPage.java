@@ -36,5 +36,6 @@ public class SearchProductPage
         logMessageToReport("Searching for "+ProductName);
         CaptureAndAttachWholePageScreenShotToReport(ProductName,ldriver);
         logger.info("ended logging for test");
+        logMessageToReport("this message is for cicd pipeline created by rocky to check pipeline generates new results");
     }
 }
