@@ -28,5 +28,3 @@ jobs:
       with:
         name: Test Report
         path: src/test/Test Report/Test Execution Report.html
-
-

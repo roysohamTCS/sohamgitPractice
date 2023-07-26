@@ -82,3 +82,31 @@
 07/26/2023 02:08:59 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.XMLReporter@32ec9c90: 5 ms
 07/26/2023 02:08:59 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.EmailableReporter2@34d713a2: 4 ms
 07/26/2023 02:08:59 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4a8ffd75: 7 ms
+07/26/2023 02:35:47 PM|INFO |IRTH-E2E-Automation-Logs      | Launching Chrome browser
+07/26/2023 02:35:55 PM|INFO |IRTH-E2E-Automation-Logs      | URL Launched https://bkmh-006.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Irth-Site
+07/26/2023 02:35:55 PM|INFO |IRTH-E2E-Automation-Logs      | Browser Capabilities : chrome114.0.5735.199
+07/26/2023 02:35:55 PM|INFO |Utils                         | [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+07/26/2023 02:35:56 PM|INFO |IRTH-E2E-Automation-Logs      | Started logging for test
+07/26/2023 02:35:56 PM|INFO |IRTH-E2E-Automation-Logs      | Product name is: bags
+07/26/2023 02:36:06 PM|INFO |IRTH-E2E-Automation-Logs      | ended logging for test
+07/26/2023 02:36:07 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.internal.ExitCodeListener@2262d6d5: 0 ms
+07/26/2023 02:36:07 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@12a470dd: 34 ms
+07/26/2023 02:36:07 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.jq.Main@46046c06: 53 ms
+07/26/2023 02:36:07 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.FailedReporter@93824eb: 1 ms
+07/26/2023 02:36:07 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.XMLReporter@32ec9c90: 7 ms
+07/26/2023 02:36:07 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.EmailableReporter2@34d713a2: 8 ms
+07/26/2023 02:36:07 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4a8ffd75: 8 ms
+07/26/2023 02:38:52 PM|INFO |IRTH-E2E-Automation-Logs      | Launching Chrome browser
+07/26/2023 02:39:00 PM|INFO |IRTH-E2E-Automation-Logs      | URL Launched https://bkmh-006.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Irth-Site
+07/26/2023 02:39:00 PM|INFO |IRTH-E2E-Automation-Logs      | Browser Capabilities : chrome114.0.5735.199
+07/26/2023 02:39:00 PM|INFO |Utils                         | [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+07/26/2023 02:39:00 PM|INFO |IRTH-E2E-Automation-Logs      | Started logging for test
+07/26/2023 02:39:01 PM|INFO |IRTH-E2E-Automation-Logs      | Product name is: bags
+07/26/2023 02:39:11 PM|INFO |IRTH-E2E-Automation-Logs      | ended logging for test
+07/26/2023 02:39:12 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.internal.ExitCodeListener@28a9494b: 0 ms
+07/26/2023 02:39:12 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@64942607: 22 ms
+07/26/2023 02:39:12 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.jq.Main@b61edb9: 39 ms
+07/26/2023 02:39:12 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.FailedReporter@5d3ff859: 1 ms
+07/26/2023 02:39:12 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.XMLReporter@343e225a: 4 ms
+07/26/2023 02:39:12 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.EmailableReporter2@fe87ddd: 4 ms
+07/26/2023 02:39:12 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@46e190ed: 7 ms
