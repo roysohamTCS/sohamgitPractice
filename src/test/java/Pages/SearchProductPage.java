@@ -20,7 +20,7 @@ public class SearchProductPage
         ldriver = rdriver;
         PageFactory.initElements(ldriver,this);
     }
-    @FindBy(css = ".searchicondeskhead.searchdeskview") WebElement SearchIcon;
+    @FindBy(css = ".searchicondeskhead.searchdeskview.") WebElement SearchIcon;
     @FindBy(css = ".row.searchcontainer.searchdeskview form > div > input[id='searchvalue']") WebElement SearchInputField;
 
 
@@ -29,6 +29,7 @@ public class SearchProductPage
         logger.info("Started logging for test");
         System.out.println(ldriver.getTitle());
         System.out.println(ldriver.getCurrentUrl());
+        logMessageToReport("trying to perform fail test");
         explicitWaits.EleToBeClickable(ldriver,SearchIcon,15);
         explicitWaits.EleToBeClickable(ldriver,SearchInputField,15);
         SearchInputField.sendKeys(ProductName);
@@ -39,5 +40,6 @@ public class SearchProductPage
         logMessageToReport("this message is for cicd pipeline created by rocky to check pipeline generates new results");
         logMessageToReport("this is another msg from cicd peipeline with ss");
         CaptureAndAttachWholePageScreenShotToReport("CICD-test",ldriver);
+        logMessageToReport("this is for fail test");
     }
 }
