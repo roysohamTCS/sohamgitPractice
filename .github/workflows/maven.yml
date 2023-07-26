@@ -28,3 +28,12 @@ jobs:
       with:
         name: Automation Test Report
         path: src/test/Test Report/Test Execution Report.html
+
+    - name: Log Report
+      uses: dorny/test-reporter@v1
+      if: always()
+      with:
+        name: Maven Tests
+        path: target/surefire-reports/*.xml
+        reporter: java-junit
+        fail-on-error: true
