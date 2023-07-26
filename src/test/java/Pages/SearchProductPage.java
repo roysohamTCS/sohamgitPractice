@@ -21,7 +21,7 @@ public class SearchProductPage
         PageFactory.initElements(ldriver,this);
     }
     @FindBy(css = ".searchicondeskhead.searchdeskview") WebElement SearchIcon;
-    @FindBy(css = ".row.searchcontainer.searchdeskview form > div > input[id='searchvalue dfghjh']") WebElement SearchInputField;
+    @FindBy(css = ".row.searchcontainer.searchdeskview form > div > input[id='searchvalue']") WebElement SearchInputField;
 
 
     public void instantSearch(String ProductName) throws Exception
