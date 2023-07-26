@@ -48,5 +48,5 @@ jobs:
         uses: actions/upload-artifact@v3
         if: success() || failure()
         with:
-          name: Automation Test Report
+          name: Automation Test Report edge
           path: src/test/Test Report/Test Execution Report.html
