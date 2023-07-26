@@ -110,3 +110,105 @@
 07/26/2023 02:39:12 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.XMLReporter@343e225a: 4 ms
 07/26/2023 02:39:12 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.EmailableReporter2@fe87ddd: 4 ms
 07/26/2023 02:39:12 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@46e190ed: 7 ms
+07/26/2023 03:09:43 PM|INFO |IRTH-E2E-Automation-Logs      | Launching Chrome browser
+07/26/2023 03:09:53 PM|INFO |IRTH-E2E-Automation-Logs      | URL Launched https://bkmh-006.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Irth-Site
+07/26/2023 03:09:53 PM|INFO |IRTH-E2E-Automation-Logs      | Browser Capabilities : chrome114.0.5735.248
+07/26/2023 03:09:53 PM|INFO |Utils                         | [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+07/26/2023 03:09:53 PM|INFO |IRTH-E2E-Automation-Logs      | Started logging for test
+07/26/2023 03:09:53 PM|INFO |IRTH-E2E-Automation-Logs      | Product name is: bags
+07/26/2023 03:10:04 PM|INFO |IRTH-E2E-Automation-Logs      | ended logging for test
+07/26/2023 03:10:16 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.internal.ExitCodeListener@111d5c97: 0 ms
+07/26/2023 03:10:16 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@92d1782: 25 ms
+07/26/2023 03:10:16 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.jq.Main@6dd36ab6: 44 ms
+07/26/2023 03:10:16 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.FailedReporter@50a13c2f: 0 ms
+07/26/2023 03:10:16 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.XMLReporter@de7e193: 6 ms
+07/26/2023 03:10:16 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2abbd0d9: 5 ms
+07/26/2023 03:10:16 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@60aec68a: 7 ms
+07/26/2023 03:11:07 PM|INFO |IRTH-E2E-Automation-Logs      | Launching Chrome browser
+07/26/2023 03:11:16 PM|INFO |IRTH-E2E-Automation-Logs      | URL Launched https://bkmh-006.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Irth-Site
+07/26/2023 03:11:16 PM|INFO |IRTH-E2E-Automation-Logs      | Browser Capabilities : chrome114.0.5735.248
+07/26/2023 03:11:16 PM|INFO |Utils                         | [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+07/26/2023 03:11:16 PM|INFO |IRTH-E2E-Automation-Logs      | Started logging for test
+07/26/2023 03:11:28 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.internal.ExitCodeListener@3234474: 0 ms
+07/26/2023 03:11:28 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@7fd987ef: 28 ms
+07/26/2023 03:11:28 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.jq.Main@e784320: 48 ms
+07/26/2023 03:11:28 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.FailedReporter@27a09971: 8 ms
+07/26/2023 03:11:28 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.XMLReporter@68dd39d2: 6 ms
+07/26/2023 03:11:28 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.EmailableReporter2@73a0f2b: 5 ms
+07/26/2023 03:11:28 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@cedee22: 10 ms
+07/26/2023 03:14:25 PM|INFO |IRTH-E2E-Automation-Logs      | Launching Chrome browser
+07/26/2023 03:14:34 PM|INFO |IRTH-E2E-Automation-Logs      | URL Launched https://bkmh-006.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Irth-Site
+07/26/2023 03:14:34 PM|INFO |IRTH-E2E-Automation-Logs      | Browser Capabilities : chrome114.0.5735.248
+07/26/2023 03:14:34 PM|INFO |Utils                         | [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+07/26/2023 03:14:34 PM|INFO |IRTH-E2E-Automation-Logs      | Started logging for test
+07/26/2023 03:14:45 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.internal.ExitCodeListener@3234474: 0 ms
+07/26/2023 03:14:45 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@7fd987ef: 27 ms
+07/26/2023 03:14:45 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.jq.Main@e784320: 49 ms
+07/26/2023 03:14:45 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.FailedReporter@27a09971: 11 ms
+07/26/2023 03:14:45 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.XMLReporter@68dd39d2: 7 ms
+07/26/2023 03:14:45 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.EmailableReporter2@73a0f2b: 5 ms
+07/26/2023 03:14:45 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@cedee22: 10 ms
+07/26/2023 03:21:18 PM|INFO |IRTH-E2E-Automation-Logs      | Launching Chrome browser
+07/26/2023 03:21:27 PM|INFO |IRTH-E2E-Automation-Logs      | URL Launched https://bkmh-006.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Irth-Site
+07/26/2023 03:21:27 PM|INFO |IRTH-E2E-Automation-Logs      | Browser Capabilities : chrome114.0.5735.248
+07/26/2023 03:21:27 PM|INFO |Utils                         | [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+07/26/2023 03:21:27 PM|INFO |IRTH-E2E-Automation-Logs      | Started logging for test
+07/26/2023 03:21:39 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.internal.ExitCodeListener@2dd8ff1d: 0 ms
+07/26/2023 03:21:39 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@217bf99e: 39 ms
+07/26/2023 03:21:39 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.jq.Main@2c63762b: 69 ms
+07/26/2023 03:21:39 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.FailedReporter@5ec1963c: 14 ms
+07/26/2023 03:21:39 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.XMLReporter@65cf4d6d: 10 ms
+07/26/2023 03:21:39 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.EmailableReporter2@687e6293: 7 ms
+07/26/2023 03:21:39 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@18a19e: 13 ms
+07/26/2023 03:22:51 PM|INFO |IRTH-E2E-Automation-Logs      | Launching Chrome browser
+07/26/2023 03:23:01 PM|INFO |IRTH-E2E-Automation-Logs      | URL Launched https://bkmh-006.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Irth-Site
+07/26/2023 03:23:01 PM|INFO |IRTH-E2E-Automation-Logs      | Browser Capabilities : chrome114.0.5735.248
+07/26/2023 03:23:01 PM|INFO |Utils                         | [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+07/26/2023 03:23:01 PM|INFO |IRTH-E2E-Automation-Logs      | Started logging for test
+07/26/2023 03:23:23 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.internal.ExitCodeListener@58fbd02e: 0 ms
+07/26/2023 03:23:23 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@642857e0: 23 ms
+07/26/2023 03:23:23 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.jq.Main@550e9be6: 38 ms
+07/26/2023 03:23:23 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.FailedReporter@2e13f304: 9 ms
+07/26/2023 03:23:23 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.XMLReporter@3965bdf9: 5 ms
+07/26/2023 03:23:23 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3ddb774f: 5 ms
+07/26/2023 03:23:23 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@de7e193: 13 ms
+07/26/2023 03:24:09 PM|INFO |IRTH-E2E-Automation-Logs      | Launching Chrome browser
+07/26/2023 03:24:18 PM|INFO |IRTH-E2E-Automation-Logs      | URL Launched https://bkmh-006.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Irth-Site
+07/26/2023 03:24:18 PM|INFO |IRTH-E2E-Automation-Logs      | Browser Capabilities : chrome114.0.5735.248
+07/26/2023 03:24:18 PM|INFO |Utils                         | [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+07/26/2023 03:24:18 PM|INFO |IRTH-E2E-Automation-Logs      | Started logging for test
+07/26/2023 03:24:19 PM|INFO |IRTH-E2E-Automation-Logs      | Product name is: bags
+07/26/2023 03:24:29 PM|INFO |IRTH-E2E-Automation-Logs      | ended logging for test
+07/26/2023 03:24:52 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.internal.ExitCodeListener@5f05c8d6: 0 ms
+07/26/2023 03:24:52 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@4a44cfc0: 48 ms
+07/26/2023 03:24:52 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.jq.Main@33eb6758: 84 ms
+07/26/2023 03:24:52 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.FailedReporter@f8a6243: 1 ms
+07/26/2023 03:24:52 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.XMLReporter@9f674ac: 5 ms
+07/26/2023 03:24:52 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.EmailableReporter2@37348491: 5 ms
+07/26/2023 03:24:52 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3520963d: 14 ms
+07/26/2023 03:25:36 PM|INFO |IRTH-E2E-Automation-Logs      | Launching Chrome browser
+07/26/2023 03:25:44 PM|INFO |IRTH-E2E-Automation-Logs      | URL Launched https://bkmh-006.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Irth-Site
+07/26/2023 03:25:44 PM|INFO |IRTH-E2E-Automation-Logs      | Browser Capabilities : chrome114.0.5735.248
+07/26/2023 03:25:44 PM|INFO |Utils                         | [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+07/26/2023 03:25:44 PM|INFO |IRTH-E2E-Automation-Logs      | Started logging for test
+07/26/2023 03:25:45 PM|INFO |IRTH-E2E-Automation-Logs      | Product name is: bags
+07/26/2023 03:25:55 PM|INFO |IRTH-E2E-Automation-Logs      | ended logging for test
+07/26/2023 03:26:18 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.internal.ExitCodeListener@27abb6ca: 0 ms
+07/26/2023 03:26:18 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@2404b5a: 53 ms
+07/26/2023 03:26:18 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.jq.Main@889a8a8: 66 ms
+07/26/2023 03:26:18 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.FailedReporter@f29353f: 1 ms
+07/26/2023 03:26:18 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.XMLReporter@ed2f2f6: 7 ms
+07/26/2023 03:26:18 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1da4b3f9: 6 ms
+07/26/2023 03:26:18 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@66813e6e: 12 ms
+07/26/2023 03:27:13 PM|INFO |IRTH-E2E-Automation-Logs      | Launching Chrome browser
+07/26/2023 03:27:21 PM|INFO |IRTH-E2E-Automation-Logs      | URL Launched https://bkmh-006.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Irth-Site
+07/26/2023 03:27:21 PM|INFO |IRTH-E2E-Automation-Logs      | Browser Capabilities : chrome114.0.5735.248
+07/26/2023 03:27:21 PM|INFO |Utils                         | [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+07/26/2023 03:27:21 PM|INFO |IRTH-E2E-Automation-Logs      | Started logging for test
+07/26/2023 03:27:42 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.internal.ExitCodeListener@3b4a1a75: 0 ms
+07/26/2023 03:27:42 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@1d8b0500: 24 ms
+07/26/2023 03:27:42 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.jq.Main@31b82e0f: 40 ms
+07/26/2023 03:27:42 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.FailedReporter@1f2f0109: 9 ms
+07/26/2023 03:27:42 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.XMLReporter@771a7d53: 6 ms
+07/26/2023 03:27:42 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6274670b: 7 ms
+07/26/2023 03:27:42 PM|INFO |Utils                         | [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@759de304: 11 ms
