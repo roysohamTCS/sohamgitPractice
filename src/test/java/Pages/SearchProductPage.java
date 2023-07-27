@@ -26,6 +26,7 @@ public class SearchProductPage
 
     public void instantSearch(String ProductName) throws Exception
     {
+        logMessageToReport("This message is to check scheduling is working or not --- ANOTHER TEST CASE");
         logger.info("Started logging for test");
         System.out.println(ldriver.getTitle());
         System.out.println(ldriver.getCurrentUrl());
